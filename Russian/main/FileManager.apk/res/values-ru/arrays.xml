@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_sortby_names">
+        <item>Имя</item>
+        <item>Размер</item>
+        <item>Последнее изменение</item>
+    </string-array>
+</resources>
